@@ -1,5 +1,4 @@
-
-
+[![MasterHead](https://images.app.goo.gl/oco4v1WM94i4cKLH8)
 <h1 align="center">Hi 👋, I'm Miraç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -17,5 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miracgurbuz&show_icons=true&locale=en" alt="miracgurbuz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miracgurbuz&" alt="miracgurbuz" /></p>
-{
-}
