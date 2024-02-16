@@ -1,4 +1,4 @@
-<[![MasterHead]([https://images.app.goo.gl/oco4v1WM94i4cKLH8](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png))
+[![MasterHead]([https://images.app.goo.gl/oco4v1WM94i4cKLH8](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png))
 <h1 align="center">Hi 👋, I'm Miraç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
