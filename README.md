@@ -1,4 +1,3 @@
-![1_wcEYa9AjnMZxXAau2iuhYw](https://github.com/miracgurbuz/miracgurbuz/assets/70647228/03a11144-d1a2-4471-b178-430bad94658e)
 <h1 align="center">Hi 👋, I'm Miraç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
