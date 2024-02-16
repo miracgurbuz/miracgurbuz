@@ -1,4 +1,4 @@
-(https://images.app.goo.gl/o8NiyHoaCtjox7w86)
+![293732243425900284632](https://github.com/miracgurbuz/miracgurbuz/assets/70647228/2c3f7468-0765-4cfa-92c7-8276b69c11c9)
 <h1 align="center">Hi 👋, I'm Miraç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
