@@ -1,4 +1,4 @@
-[MasterHead](https://images.app.goo.gl/o8NiyHoaCtjox7w86)
+(https://images.app.goo.gl/o8NiyHoaCtjox7w86)
 <h1 align="center">Hi 👋, I'm Miraç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
