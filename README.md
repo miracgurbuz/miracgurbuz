@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miracgurbuz&show_icons=true&locale=en" alt="miracgurbuz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miracgurbuz&" alt="miracgurbuz" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Selam+ben+miraç+uzun+süredir+yazılımla+uğraşıyorum+yakında+güzel+projeler+paylaşacağım+." alt="miracgurbuz" />
